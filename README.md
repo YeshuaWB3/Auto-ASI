@@ -1,4 +1,4 @@
-##Auto-ASI: SuperIntelligent Automated Task Handler, Coder, Long-Term Memory, Ingest Updates, Web Unlocked, API Access, GPT
+#Auto-ASI: SuperIntelligent Automated Task Handler, Coder, Long-Term Memory, Ingest Updates, Web Unlocked, API Access, GPT
 
 Auto-ASI is an autonomous agent designed to achieve complex goals in various domains by combining several cutting-edge technologies and APIs. The system is powered by GPT-4 and uses natural language processing (NLP) to generate tasks and prioritize them based on a predefined objective. Auto-ASI incorporates the following capabilities:
 
@@ -28,10 +28,10 @@ Interact with Auto-ASI by providing tasks and monitoring its progress.
 
 For more information on how to use Auto-ASI and its capabilities, refer to the documentation and code examples provided in the repository.
 
-##Contributors
+#Contributors
 
 Auto-ASI is an open-source project developed by a team of contributors from the AI and technology communities. We welcome contributions and feedback from anyone interested in using or improving the system.
 
-##License
+#License
 
 Auto-ASI is released under the MIT License. See LICENSE for details.
