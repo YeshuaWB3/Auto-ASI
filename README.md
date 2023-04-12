@@ -28,7 +28,7 @@ Interact with Auto-ASI by providing tasks and monitoring its progress.
 
 For more information on how to use Auto-ASI and its capabilities, refer to the documentation and code examples provided in the repository.
 
-## Contributors
+# Contributors
 
 Auto-ASI is an open-source project developed by a team of contributors from the AI and technology communities. We welcome contributions and feedback from anyone interested in using or improving the system.
 
